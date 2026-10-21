@@ -1,1 +1,0 @@
-# statistical-arbitrage-pairs-trading

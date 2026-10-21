@@ -1,0 +1,8 @@
+requirements : 
+
+yfinance
+pandas
+numpy
+statsmodels
+matplotlib
+jupyter
